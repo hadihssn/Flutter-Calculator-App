@@ -1,10 +1,6 @@
-# full_calculator_app
+# Flutter Based Calculator App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+This is a calculator app made using Flutter-Dart. It contains basic operators (+, -, *, /) and all the 10 digits from 0-9
 
 A few resources to get you started if this is your first Flutter project:
 
